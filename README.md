@@ -1,6 +1,6 @@
 # Password_generator 
 
-##General info
+## General info
 A [alphanumeric](https://www.merriam-webster.com/dictionary/alphanumeric) password generator
 
 ## What it does?
